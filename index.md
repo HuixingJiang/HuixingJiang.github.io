@@ -1,9 +1,14 @@
-<div align='center'><font size='70'>江会星的个人主页</font></div>
+<div align='center'><font size='50'>江会星的个人主页</font></div>
 
 
 # 近期文章发表
 ## 2022
-
+- 
+ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement. SIGIR 2022
+-
+Co-VQA : Answering by Interactive Sub Question Sequence ACL'22(Findings)
+- Yutao Mu, Keqing He^, Yanan Wu, Zhiyuan Zeng, Hong Xu, Huixing Jiang, Wei Wu, and Weiran Xu:
+Disentangled Knowledge Transfer for OOD Intent Discovery with Unified Contrastive Learning. ACL'22
 ## 2021
 - Han Liu, Caixia Yuan, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
 Converse, Focus and Guess - Towards Multi-Document Driven Dialogue. AAAI 2021: 13380-13387
