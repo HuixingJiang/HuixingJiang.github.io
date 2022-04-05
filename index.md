@@ -2,7 +2,42 @@
 
 
 # 近期文章发表
+## 2022
 
+## 2021
+- Han Liu, Caixia Yuan, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
+Converse, Focus and Guess - Towards Multi-Document Driven Dialogue. AAAI 2021: 13380-13387
+- Xiangyu Xi, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang, Wei Wu:
+Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder. ACL/IJCNLP (1) 2021: 210-219
+- Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang, Weiran Xu:
+Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning. ACL/IJCNLP (2) 2021: 870-878
+- Yanan Wu, Zhiyuan Zeng, Keqing He, Hong Xu, Yuanmeng Yan, Huixing Jiang, Weiran Xu:
+Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System. ACL/IJCNLP (1) 2021: 3484-3494
+- Hengtong Lu, Zhuoxin Han, Caixia Yuan, Xiaojie Wang, Shuyu Lei, Huixing Jiang, Wei Wu:
+Slot Transferability for Cross-domain Slot Filling. ACL/IJCNLP (Findings) 2021: 4970-4979
+- Chenxu Lv, Hengtong Lu, Shuyu Lei, Huixing Jiang, Wei Wu, Caixia Yuan, Xiaojie Wang:
+Task-Oriented Clustering for Dialogues. EMNLP (Findings) 2021: 4338-4347
+- Xiangyu Xi, Wei Ye, Tong Zhang, Quanxiu Wang, Shikun Zhang, Huixing Jiang, Wei Wu:
+Improving Event Detection by Exploiting Label Hierarchy. ICASSP 2021: 7688-7692
+- Han Liu, Caixia Yuan, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
+Converse, Focus and Guess - Towards Multi-Document Driven Dialogue. CoRR abs/2102.02435 (2021)
+- Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang, Weiran Xu:
+Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning. CoRR abs/2105.14289 (2021)
+- Yanan Wu, Zhiyuan Zeng, Keqing He, Hong Xu, Yuanmeng Yan, Huixing Jiang, Weiran Xu:
+Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System. CoRR abs/2105.14313 (2021)
+- Xiangyu Xi, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang, Wei Wu:
+Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder. CoRR abs/2107.00189 (2021)
+- Lulu Zhao, Fujia Zheng, Keqing He, Weihao Zeng, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng:
+TODSum: Task-Oriented Dialogue Summarization with State Tracking. CoRR abs/2110.12680 (2021)
+## 2020
+- Keqing He, Shuyu Lei, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
+Syntactic Graph Convolutional Network for Spoken Language Understanding. COLING 2020: 2728-2738
+- Zipeng Xu, Fangxiang Feng, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
+Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. ACM Multimedia 2020: 4271-4279
+- Fangxiang Feng, Tianrui Niu, Ruifan Li, Xiaojie Wang, Huixing Jiang:
+Learning Visual Features from Product Title for Image Retrieval. ACM Multimedia 2020: 4723-4727
+- Zipeng Xu, Fangxiang Feng, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Ouyang:
+Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs/2010.00361 (2020)
 
 # 近期专利发表
 
