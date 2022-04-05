@@ -3,9 +3,9 @@
 
 # 近期文章发表
 ## 2022
-- 
+- Lulu Zhao
 ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement. SIGIR 2022
--
+- Hengtong Lu
 Co-VQA : Answering by Interactive Sub Question Sequence ACL'22(Findings)
 - Yutao Mu, Keqing He^, Yanan Wu, Zhiyuan Zeng, Hong Xu, Huixing Jiang, Wei Wu, and Weiran Xu:
 Disentangled Knowledge Transfer for OOD Intent Discovery with Unified Contrastive Learning. ACL'22
