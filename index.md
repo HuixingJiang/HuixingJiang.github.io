@@ -1,7 +1,7 @@
 <div align='center'><font size='50'>江会星的个人主页</font></div>
 
 
-# 近期文章发表
+# 近期顶会文章
 
 ## 2022
 
@@ -50,5 +50,18 @@ Learning Visual Features from Product Title for Image Retrieval. ACM Multimedia 
 - Zipeng Xu, Fangxiang Feng, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Ouyang:
 Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs/2010.00361 (2020)
 
-# 近期专利发表
+# 近期博客文章
 
+## 2021
+
+- 美团智能客服核心技术与实践. 美团技术团队, 2021-09-30
+
+## 2020
+
+- 美团智能问答技术探索与实践. DataFunTalk, 2020-12-21
+- WSDM Cup 2020检索排序评测任务第一名经验总结. 美团技术团队, 2020-03-25
+
+## 2019
+
+- 美团对话理解技术及实践. DataFunTalk, 2019-05-31
+- 美团智能客服系统. CAAI《中国人工智能学会通讯》, 2019-03
