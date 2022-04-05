@@ -2,16 +2,18 @@
 
 
 # 近期文章发表
+
 ## 2022
+
 - Lulu Zhao, Fujia Zheng, Weihao zeng, Keqing He, Geng Ruotong, Huixing Jiang, Wei Wu, Weiran Xu:
 ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement. SIGIR 2022
-
 - Ruonan Wang,Yuxi Qian, Fangxiang Feng, Xiaojie Wang, Huixing Jiang:
 Co-VQA : Answering by Interactive Sub Question Sequence. ACL'22(Findings)
-
 - Yutao Mu, Keqing He^, Yanan Wu, Zhiyuan Zeng, Hong Xu, Huixing Jiang, Wei Wu, and Weiran Xu:
 Disentangled Knowledge Transfer for OOD Intent Discovery with Unified Contrastive Learning. ACL'22
+
 ## 2021
+
 - Han Liu, Caixia Yuan, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
 Converse, Focus and Guess - Towards Multi-Document Driven Dialogue. AAAI 2021: 13380-13387
 - Xiangyu Xi, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang, Wei Wu:
@@ -36,7 +38,9 @@ Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task
 Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder. CoRR abs/2107.00189 (2021)
 - Lulu Zhao, Fujia Zheng, Keqing He, Weihao Zeng, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng:
 TODSum: Task-Oriented Dialogue Summarization with State Tracking. CoRR abs/2110.12680 (2021)
+
 ## 2020
+
 - Keqing He, Shuyu Lei, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
 Syntactic Graph Convolutional Network for Spoken Language Understanding. COLING 2020: 2728-2738
 - Zipeng Xu, Fangxiang Feng, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang:
