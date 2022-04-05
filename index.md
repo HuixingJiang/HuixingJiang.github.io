@@ -1,4 +1,4 @@
-<div align='center'><font size='50'>江会星的个人主页</font></div>
+<div align='center'><font size='45'>江会星的个人主页</font></div>
 
 
 # 近期顶会文章
