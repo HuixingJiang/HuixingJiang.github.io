@@ -4,7 +4,10 @@
 # 近期顶会文章
 
 ## 2022
-
+- Yanan Wu, Keqing He, Yuanmeng Yan, Qixiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu:
+Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold. NAACL 2022
+- Lulu Zhao, Fujia Zheng, Weihao Zeng, Keqing He, Ruotong Zheng, Huixing Jiang, Wei Wu, and Weiran Xu:
+TODSum: Task-Oriented Dialogue Summarization with State Tracking. NAACL 2022 
 - Lulu Zhao, Fujia Zheng, Weihao zeng, Keqing He, Geng Ruotong, Huixing Jiang, Wei Wu, Weiran Xu:
 ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement. SIGIR 2022
 - Ruonan Wang,Yuxi Qian, Fangxiang Feng, Xiaojie Wang, Huixing Jiang:
@@ -59,6 +62,7 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 ## 2020
 
 - [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/IN-xzbrjjV2XgrGLPS5wRw). DataFunTalk, 2020-12-21
+- [对话任务重的“语言-视觉”信息融合研究](https://mp.weixin.qq.com/s/C4bzBRFbQ-n3LWtT-QL8xw).美团技术团队， 2020-10-15
 - [WSDM Cup 2020检索排序评测任务第一名经验总结](https://mp.weixin.qq.com/s/k5wNtV057c7cMrjSdQAULw). 美团技术团队, 2020-03-25
 
 ## 2019
