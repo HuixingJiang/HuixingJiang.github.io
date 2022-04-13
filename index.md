@@ -54,16 +54,16 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 
 ## 2021
 
-- 美团智能客服核心技术与实践. 美团技术团队, 2021-09-30
+- [美团智能客服核心技术与实践](https://mp.weixin.qq.com/s/erwp-NAoBunA03WkhtFycw). 美团技术团队, 2021-09-30
 
 ## 2020
 
-- 美团智能问答技术探索与实践. DataFunTalk, 2020-12-21
-- WSDM Cup 2020检索排序评测任务第一名经验总结. 美团技术团队, 2020-03-25
+- [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/IN-xzbrjjV2XgrGLPS5wRw). DataFunTalk, 2020-12-21
+- [WSDM Cup 2020检索排序评测任务第一名经验总结](https://mp.weixin.qq.com/s/k5wNtV057c7cMrjSdQAULw). 美团技术团队, 2020-03-25
 
 ## 2019
 
-- 美团对话理解技术及实践. DataFunTalk, 2019-05-31
+- [美团对话理解技术及实践](https://mp.weixin.qq.com/s/UH7r3oh4M4_qkqtIE1dGPw). DataFunTalk, 2019-05-31
 - 美团智能客服系统. CAAI《中国人工智能学会通讯》, 2019-03
 
 # 个人介绍
