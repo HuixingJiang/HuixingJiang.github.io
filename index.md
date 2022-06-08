@@ -55,6 +55,10 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 
 # 近期博客文章
 
+## 2022
+
+- [基于交互的推理——事件图谱在美团智能客服问答中的应用](https://mp.weixin.qq.com/s/lVk5yxVQZeOk2VO_pbyT3g). DataFunTalk, 2022-06-06
+
 ## 2021
 
 - [美团智能客服核心技术与实践](https://mp.weixin.qq.com/s/erwp-NAoBunA03WkhtFycw). 美团技术团队, 2021-09-30
