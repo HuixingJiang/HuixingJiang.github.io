@@ -3,6 +3,12 @@
 
 # 近期顶会文章
 
+## 2024
+- KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning，ACL 2024
+- Q-MoE: Connector for MLLMs with Text-Driven Routing, ACMMM 2024
+- Improving Causal Inference of Large Language Models with SCM Tools， NLPCC 2024
+
+
 ## 2022
 - Yanan Wu, Keqing He, Yuanmeng Yan, Qixiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu:
 Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold. NAACL 2022
