@@ -7,7 +7,7 @@
 - KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning，ACL 2024
 - Q-MoE: Connector for MLLMs with Text-Driven Routing, ACMMM 2024
 - Improving Causal Inference of Large Language Models with SCM Tools， NLPCC 2024
-
+- Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models. CoRR abs/2410.16801 (2024)
 
 ## 2022
 - Yanan Wu, Keqing He, Yuanmeng Yan, Qixiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu:
