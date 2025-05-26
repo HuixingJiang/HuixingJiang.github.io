@@ -4,6 +4,8 @@
 # 近期顶会文章
 ## 2025
 - Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models. ACL 2025
+- A Systematic Exploration of Knowledge Graph Alignment with Large Language Models in Retrieval Augmented Generation. AAAI 2025
+- Data with High and Consistent Preference Difference Are Better for Reward Model. AAAI 2025
 
 ## 2024
 - KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning，ACL 2024
