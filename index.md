@@ -65,7 +65,7 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 # 近期博客文章
 ## 2025
 
-- [理想同学智能体-第三十二届中国汽车工程学会报告)](https://github.com/HuixingJiang/HuixingJiang.github.io/blob/main/%E6%B1%9F%E4%BC%9A%E6%98%9F-%E7%90%86%E6%83%B3%E5%90%8C%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93.pdf)
+- [理想同学智能体-第三十二届中国汽车工程学会报告](https://github.com/HuixingJiang/HuixingJiang.github.io/blob/main/%E6%B1%9F%E4%BC%9A%E6%98%9F-%E7%90%86%E6%83%B3%E5%90%8C%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93.pdf)
 
 ## 2022
 
