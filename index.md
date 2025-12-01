@@ -67,8 +67,6 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 
 - [理想同学智能体-第三十二届中国汽车工程学会报告](https://github.com/HuixingJiang/HuixingJiang.github.io/blob/main/docs/%E6%B1%9F%E4%BC%9A%E6%98%9F-%E7%90%86%E6%83%B3%E5%90%8C%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93.pdf)
 
-<iframe src="https://github.com/HuixingJiang/HuixingJiang.github.io/blob/main/docs/%E6%B1%9F%E4%BC%9A%E6%98%9F-%E7%90%86%E6%83%B3%E5%90%8C%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93.pdf" width="100%" height="600px"></iframe>
-
 ## 2022
 
 - [基于交互的推理——事件图谱在美团智能客服问答中的应用](https://mp.weixin.qq.com/s/lVk5yxVQZeOk2VO_pbyT3g). DataFunTalk, 2022-06-06
