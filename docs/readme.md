@@ -1,5 +1,11 @@
 <div align='center'><font size='36'>江会星的个人主页</font></div>
 
+# 个人介绍
+
+江会星，北京邮电大学博士，理想汽车NLP科学家，理想同学负责人，CAAI自然语言理解专委会委员，拥有15年以上从事人机对话交互、智能体、大模型、知识图谱等领域研究工作经验。发表国际顶级会议期刊论文30余篇。前美团对话平台团队负责人，负责美团智能客服业务。曾在阿里达摩院语音实验室从事智能语音对话交互方向研究。曾在搜狗负责NLP团队从事探索引擎研发等。
+
+<img src="https://github.com/user-attachments/assets/469eca34-2af2-4ae6-b08e-7fe97eff1dd3" width="300">
+
 
 # 近期顶会文章
 ## 2025
@@ -86,9 +92,5 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 - [美团对话理解技术及实践](https://mp.weixin.qq.com/s/UH7r3oh4M4_qkqtIE1dGPw). DataFunTalk, 2019-05-31
 - 美团智能客服系统. CAAI《中国人工智能学会通讯》, 2019-03
 
-# 个人介绍
-
-江会星，北京邮电大学博士，理想汽车NLP科学家，理想同学负责人，CAAI自然语言理解专委会委员，拥有15年以上从事人机对话交互、智能体、大模型、知识图谱等领域研究工作经验。发表国际顶级会议期刊论文30余篇。前美团对话平台团队负责人，负责美团智能客服业务。曾在阿里达摩院语音实验室从事智能语音对话交互方向研究。曾在搜狗负责NLP团队从事探索引擎研发等。
-
-<img src="https://github.com/user-attachments/assets/469eca34-2af2-4ae6-b08e-7fe97eff1dd3" width="300">
+# 近期经历
 
