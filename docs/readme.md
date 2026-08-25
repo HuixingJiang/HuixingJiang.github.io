@@ -96,5 +96,19 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 - [美团对话理解技术及实践](https://mp.weixin.qq.com/s/UH7r3oh4M4_qkqtIE1dGPw). DataFunTalk, 2019-05-31
 - 美团智能客服系统. CAAI《中国人工智能学会通讯》, 2019-03
 
-# 近期经历
+# 近期经历 - 理想汽车
 
+## 2026年
+系统级智能体：端侧(个人)智能体，从有人任务 + (海外)智驾 ➡️ 无人任务 
+
+## 2025年
+多智能体：CUA\MCP\A2A, 联接AI服务生态
+
+## 2024年
+单智能体：大模型function call + 300+tools + memory
+
+## 2023年
+自研大模型：MindGPT, 预训练 + 后训练
+
+## 2022年
+端到端理解：LiT5
