@@ -11,6 +11,9 @@
 
 # 近期顶会文章
 ## 2025
+- VL-DynaRefine: A Vision-Language Dynamic Refinement Approach for Visual Reasoning, ACMMM 2025
+- Enhancing complex instruction following for large language models with mixture-of-contexts fine-tuning, arXiv preprint 2025
+- Freegraftor: Training-free cross-image feature grafting for subject-driven text-to-image generation, arXiv preprint 2025
 - Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models. ACL 2025
 - A Systematic Exploration of Knowledge Graph Alignment with Large Language Models in Retrieval Augmented Generation. AAAI 2025
 - Data with High and Consistent Preference Difference Are Better for Reward Model. AAAI 2025
