@@ -99,13 +99,15 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 # 近期经历 - 理想汽车
 
 ## 2026年
-系统级智能体：端侧(个人)智能体，端Agent Loop + 端音视频感知大模型 + 具身控制，从有人任务 + (海外)智驾 ➡️ 无人任务
+系统级智能体：端侧(个人)智能体，从有人任务 + (海外)智驾 ➡️ 无人任务
+
+- 端侧(个人)智能体，端侧Mind-Edge大模型，具身控制，全信息记忆2.0
 
 ## 2025年
-多智能体：CUA\MCP\A2A, 联接AI服务生态
+多智能体：CUA\MCP\A2A, 联接AI服务生态 + 全信息记忆1.0
 
 ## 2024年
-单智能体：大模型function call + 300+tools + memory
+单智能体：大模型function call + 300+tools + 记忆1.0
 
 ## 2023年
 自研大模型：MindGPT, 预训练 + 后训练
