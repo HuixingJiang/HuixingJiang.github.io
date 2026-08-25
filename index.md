@@ -100,16 +100,16 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 # 最近经历
 
 ## 2026年
-系统级智能体：端侧(个人)智能体，从有人任务 + (海外)智驾 ➡️ 无人任务 
+系统级智能体：端侧(个人)智能体，端Agent Loop + 端音视频感知大模型 + 具身控制，从有人任务 + (海外)智驾 ➡️ 无人任务
 
 ## 2025年
 多智能体：CUA\MCP\A2A, 联接AI服务生态
 
 ## 2024年
-单智能体：大模型function call + 300+tools + memory
+单智能体：MindGPT Function call + 300tools + memory
 
 ## 2023年
-自研大模型：MindGPT, 预训练 + 后训练
+自研大模型：MindGPT, 预训练 + 后训练 + RAG
 
 ## 2022年
 端到端理解：LiT5
