@@ -10,6 +10,9 @@
 
 
 # 近期顶会文章
+## 2026
+- Test-time zero-shot recognition with good attributes, Pattern Recognition 2026
+
 ## 2025
 - VL-DynaRefine: A Vision-Language Dynamic Refinement Approach for Visual Reasoning, ACMMM 2025
 - Enhancing complex instruction following for large language models with mixture-of-contexts fine-tuning, arXiv preprint 2025
