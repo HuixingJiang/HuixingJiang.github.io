@@ -73,6 +73,9 @@ Learning Visual Features from Product Title for Image Retrieval. ACM Multimedia 
 Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs/2010.00361 (2020)
 
 # 近期博客文章
+## 2026
+ - [理想同学·具身智能体-2026外滩大会主题报告](https://github.com/HuixingJiang/HuixingJiang.github.io/blob/main/docs/%E7%90%86%E6%83%B3%E5%90%8C%E5%AD%A6%C2%B7%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E4%BD%93.pdf)
+
 ## 2025
 
 - [理想同学智能体-第三十二届中国汽车工程学会报告](https://github.com/HuixingJiang/HuixingJiang.github.io/blob/main/docs/%E6%B1%9F%E4%BC%9A%E6%98%9F-%E7%90%86%E6%83%B3%E5%90%8C%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93.pdf)
