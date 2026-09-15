@@ -101,8 +101,9 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue. CoRR abs
 
 ## 2026年
 系统级智能体：端侧(个人)智能体，从有人任务 + (海外)智驾 ➡️ 无人任务
-
-- 端侧(个人)智能体，端侧Mind-Edge大模型，具身控制，全信息记忆2.0
+- AgentOS：Agent Harness，端侧Mind-Edge大模型，具身MCP Servier，全信息记忆2.0，沙盒容器
+- 多模态具身交互：端云融合的语音交互、空间交互及个性化主动交互
+- 舱驾融合：智驾原子能力封装，长程任务规划，长程任务执行(迎宾挪车、取放物移车、行泊指挥)
 
 ## 2025年
 多智能体：CUA\MCP\A2A, 联接AI服务生态 + 全信息记忆1.0
